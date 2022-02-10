@@ -1,0 +1,1 @@
+exports.mytext = 'hello from module';
